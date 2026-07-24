@@ -4,7 +4,7 @@
 
 Founder & CEO of **[feat.](https://feat.press)** · Sr. Venture Associate, **[Startup Haven](https://startuphaven.com)** · TED Editor's Pick
 
-I build feat. — the marketplace for everything AI helps you build — and work with early-stage startups on narrative, language, and growth.
+I build **feat.** — the marketplace for everything AI helps you build — connecting builders with affiliates so people can sell what you create.
 
 🌐 **Personal site:** [saandeepkondury.github.io](https://saandeepkondury.github.io)
 
@@ -12,7 +12,9 @@ I build feat. — the marketplace for everything AI helps you build — and work
 
 ## About
 
-Sandeep Kondury is the founder of **feat.**, the marketplace that connects builders with affiliates so people can sell what you build. He also works on lingo leverage and narrative-driven growth. He has evaluated **1,200+ startups**, helped deploy **$10M+** in early-stage capital, and guided financial models supporting **$24M** in Seed–Series A raises.
+Sandeep Kondury is the founder and CEO of **feat.**, the marketplace for everything AI helps you build. feat. connects builders with affiliates: list your product, set your commission, and approve affiliates for co-promotion in minutes.
+
+He is also Sr. Venture Associate at Startup Haven Ventures and works on **lingo leverage** — how language and cultural adoption predict startup outcomes. He has evaluated **1,200+ startups**, helped deploy **$10M+** in early-stage capital, and guided financial models supporting **$24M** in Seed–Series A raises.
 
 **Based in:** Austin, TX, United States  
 **Known for:** feat., Startup Haven, lingo leverage, TED Editor's Pick  
