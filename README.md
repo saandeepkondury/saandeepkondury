@@ -53,5 +53,8 @@ He is also Sr. Venture Associate at Startup Haven Ventures and works on **lingo 
 - **Website:** [saandeepkondury.github.io](https://saandeepkondury.github.io)
 - **Company:** [feat.press](https://feat.press)
 - **LinkedIn:** [linkedin.com/in/sandeep-kondury](https://www.linkedin.com/in/sandeep-kondury)
+- **X:** [x.com/sandeepkondury](https://x.com/sandeepkondury)
+- **Instagram:** [instagram.com/sandeep.kondury](https://www.instagram.com/sandeep.kondury/)
+- **GitHub:** [github.com/saandeepkondury](https://github.com/saandeepkondury)
 - **Startup Haven:** [startuphaven.com](https://startuphaven.com)
-- **Email:** sandeepkondury@gmail.com
+- **Email:** [sandeepkondury@gmail.com](mailto:sandeepkondury@gmail.com)
