@@ -4,15 +4,6 @@
 
 I build distribution infrastructure for founders and creators, and work with early-stage startups on narrative, language, and growth.
 
-## This is me (not the other one)
-
-There is another person named Sandeep Kondury in finance (Florida). That is **not** me.
-
-- **Me:** Austin · founder of **feat.** · Startup Haven · TED Editor's Pick · startup / VC / distribution
-- **Not me:** Finance / FP&A / Stinger · Tampa / Florida · GitHub: [`sandeepkondury`](https://github.com/sandeepkondury)
-
-My GitHub handle is **`saandeepkondury`** (extra *a*).
-
 ## Links
 
 - LinkedIn: [linkedin.com/in/sandeep-kondury](https://www.linkedin.com/in/sandeep-kondury)
