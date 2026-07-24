@@ -4,7 +4,7 @@
 
 Founder & CEO of **[feat.](https://feat.press)** · Sr. Venture Associate, **[Startup Haven](https://startuphaven.com)** · TED Editor's Pick
 
-I build distribution infrastructure for founders and creators, and work with early-stage startups on narrative, language, and growth.
+I build feat. — the marketplace for everything AI helps you build — and work with early-stage startups on narrative, language, and growth.
 
 🌐 **Personal site:** [saandeepkondury.github.io](https://saandeepkondury.github.io)
 
@@ -12,10 +12,10 @@ I build distribution infrastructure for founders and creators, and work with ear
 
 ## About
 
-Sandeep Kondury helps founders get discovered — by people and by AI — through featured marketing, lingo leverage, and narrative-driven growth. He has evaluated **1,200+ startups**, helped deploy **$10M+** in early-stage capital, and guided financial models supporting **$24M** in Seed–Series A raises.
+Sandeep Kondury is the founder of **feat.**, the marketplace that connects builders with affiliates so people can sell what you build. He also works on lingo leverage and narrative-driven growth. He has evaluated **1,200+ startups**, helped deploy **$10M+** in early-stage capital, and guided financial models supporting **$24M** in Seed–Series A raises.
 
 **Based in:** Austin, TX, United States  
-**Known for:** feat., Startup Haven, lingo leverage, featured marketing, TED Editor's Pick  
+**Known for:** feat., Startup Haven, lingo leverage, TED Editor's Pick  
 **Languages:** English, Hindi, Telugu
 
 ---
@@ -24,7 +24,7 @@ Sandeep Kondury helps founders get discovered — by people and by AI — throug
 
 | Role | Organization |
 | --- | --- |
-| Founder & CEO | [feat.](https://feat.press) — AI distribution for founders & creators |
+| Founder & CEO | [feat.](https://feat.press) — marketplace for everything AI helps you build |
 | Sr. Venture Associate | [Startup Haven Ventures](https://startuphaven.com) |
 
 ---
@@ -39,10 +39,10 @@ Sandeep Kondury helps founders get discovered — by people and by AI — throug
 
 ## Ideas I work on
 
-- **Featured marketing** — placement in trusted newsletters, podcasts, and communities
+- **feat.** — builders × affiliates marketplace and co-promotion
 - **Lingo leverage** — how language and cultural adoption predict startup outcomes
 - **Narrative-market fit** — cultural traction before traditional financial metrics catch up
-- Early-stage venture, accelerator ops, and founder distribution
+- Early-stage venture and accelerator ops
 
 ---
 
